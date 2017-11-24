@@ -13,4 +13,8 @@ An [Atom](https://atom.io) text editor package that strips out unnecessary newli
 
 ## Future Features:
 
-* Ability to strip out CRLF lines.
+* Ability to strip out CRLF lines (pull requests welcome!)
+
+## Bug
+
+* Certain edge cases will cause the stripping to not work correctly
