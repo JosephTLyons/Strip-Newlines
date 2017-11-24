@@ -9,7 +9,7 @@ An [Atom](https://atom.io) text editor package that strips out unnecessary newli
 
 ## Current Features:
 
-* This package will strip out any newlines after any 2 occurrences.  The reasoning behind using the value 2 is we often use one blank line to mark the end of one code block and the beginning of another; this blank line consists of two newlines.  Using the value of 2 means that these blank lines will not be removed.
+* This package will strip out any newlines after any 2 occurrences (adjustable in settings).  The reasoning behind using the value 2 is we often use one blank line to mark the end of one code block and the beginning of another; this blank line consists of two newlines.  Using the value of 2 means that these blank lines will not be removed.
 
 ## Future Features:
 
