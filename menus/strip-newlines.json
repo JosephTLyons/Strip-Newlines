@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle strip-newlines",
+        "command": "strip-newlines:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "strip-newlines",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "strip-newlines:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
