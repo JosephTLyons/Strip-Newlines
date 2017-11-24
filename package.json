@@ -2,7 +2,7 @@
   "name": "strip-newlines",
   "main": "./lib/strip-newlines",
   "version": "0.1.0",
-  "description": "Strip out unnecessary newlines from files.",
+  "description": "Strip out unnecessary newlines (LF) from files.",
   "keywords": [
       "strip",
       "newlines",
