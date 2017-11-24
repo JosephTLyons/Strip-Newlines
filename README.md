@@ -13,5 +13,4 @@ An [Atom](https://atom.io) text editor package that strips out unnecessary newli
 
 ## Future Features:
 
-* Ability to set the ignore value from the default (2) to any value, in the package settings.
 * Ability to strip out CRLF lines.
