@@ -24,9 +24,10 @@
   "configSchema": {
     "consecutiveNewlinesAllowed": {
       "title": "Consecutive Newlines Allowed",
-      "description": "This setting dictates how many consecutive newlines are allowed before stripping occurs.",
+      "description": "This setting dictates how many consecutive newlines are allowed before stripping occurs (minimum of 0)",
       "type": "integer",
-      "default": 2
+      "default": 2,
+      "minimum": 0
     }
   }
 }
