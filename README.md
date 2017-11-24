@@ -1,5 +1,5 @@
 # Strip Newlines
-Strips out unnecessary newlines (LF) from files.
+An [Atom](https://atom.io) text editor package that strips out unnecessary newlines (LF) from files.
 
 ## Before
 ![alt tag](https://raw.githubusercontent.com/JosephTLyons/Strip-Newlines/master/Screenshots/Before.png)
