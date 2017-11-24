@@ -15,7 +15,3 @@ An [Atom](https://atom.io) text editor package that strips out unnecessary newli
 
 * Ability to set the ignore value from the default (2) to any value, in the package settings.
 * Ability to strip out CRLF lines.
-
-## Bugs
-
-* If there are spaces mixed in between newlines, and no other characters, the stripping may not work correctly.
