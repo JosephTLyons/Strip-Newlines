@@ -5,6 +5,8 @@
   "description": "Strips out unnecessary newlines (LF) from files.",
   "keywords": [
     "strip",
+    "remove",
+    "clean",
     "newlines",
     "new",
     "lines"
