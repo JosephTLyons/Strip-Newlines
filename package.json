@@ -12,7 +12,7 @@
   "activationCommands": {
     "atom-workspace": "strip-newlines:toggle"
   },
-  "repository": "https://github.com/atom/strip-newlines",
+  "repository": "https://github.com/JosephTLyons/Strip-Newlines",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
