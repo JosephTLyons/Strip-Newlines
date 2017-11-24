@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "strip-newlines",
+          "label": "Strip Newlines",
           "submenu": [
             {
               "label": "Toggle",
