@@ -19,7 +19,11 @@ An [Atom](https://atom.io) text editor package that strips out unnecessary newli
 
 * Certain edge cases will cause the stripping to not work correctly
 * Minimum vale (0) may still allow for values below 0 - unsure.
+* Text is randomly highlighted when using the right-click context menu to strip newlines.
 
 ## TODO:
 
 * Refactor stripNewlines() into smaller functions
+
+
+DS's suggestions and fixes
