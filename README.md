@@ -24,6 +24,3 @@ An [Atom](https://atom.io) text editor package that strips out unnecessary newli
 ## TODO:
 
 * Refactor stripNewlines() into smaller functions
-
-
-DS's suggestions and fixes
