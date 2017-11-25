@@ -3,7 +3,7 @@
     "atom-text-editor": [
       {
         "label": "Toggle Strip Newlines",
-        "command": "strip-newlines:toggle"
+        "command": "strip-newlines:stripNewlines"
       }
     ]
   },
@@ -16,7 +16,7 @@
           "submenu": [
             {
               "label": "Toggle",
-              "command": "strip-newlines:toggle"
+              "command": "strip-newlines:stripNewlines"
             }
           ]
         }
