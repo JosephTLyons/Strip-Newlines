@@ -11,9 +11,6 @@
     "new",
     "lines"
   ],
-  "activationCommands": {
-    "atom-workspace": "strip-newlines:stripNewlines"
-  },
   "repository": "https://github.com/JosephTLyons/Strip-Newlines",
   "license": "MIT",
   "engines": {
