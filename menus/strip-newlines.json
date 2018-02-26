@@ -15,7 +15,7 @@
           "label": "Strip Newlines",
           "submenu": [
             {
-              "label": "Strip",
+              "label": "Strip Newlines",
               "command": "strip-newlines:stripNewlines"
             }
           ]
