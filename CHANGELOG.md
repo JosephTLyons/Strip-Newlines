@@ -1,3 +1,7 @@
+## v0.3.0
+
+- Now supports CRLF style of newlines.  It should be noted that if you are using mixed newlines, all of your newlines will be converted to CRLF, due to the way the algorithm is designed.
+
 ## v0.2.2
 
 - v0.2.1 severed the link between the package menu and context menu commands (nothing would happen), this fixes it.
