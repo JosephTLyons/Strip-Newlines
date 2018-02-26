@@ -1,4 +1,8 @@
-## v0.2.1 (Unreleased)
+## v0.2.2
+
+- v0.2.1 severed the link between the package menu and context menu commands (nothing would happen), this fixes it.
+
+## v0.2.1
 
 - Command Palette option is now two words.  Was "StripNewlines" before.
 
