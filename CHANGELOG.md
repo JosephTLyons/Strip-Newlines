@@ -1,6 +1,6 @@
 ## v0.3.0
 
-- Now supports CRLF style of newlines.  It should be noted that if you are using mixed newlines, all of your newlines will be converted to CRLF, due to the way the algorithm is designed.
+- Now supports CRLF style of newlines.  If you are using LF or CRLF newlines, strip-newlines will preserve this.  However, it should be noted that if you are using mixed newlines, all of your newlines will be converted to CRLF, due to the way the algorithm is designed.
 
 ## v0.2.2
 
