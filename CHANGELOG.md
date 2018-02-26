@@ -1,3 +1,7 @@
+## v0.2.1 (Unreleased)
+
+- Command Palette option is now two words.  Was "StripNewlines" before.
+
 ## v0.2.0
 
 - Added a setting in the package settings that allows the user to set the minimum amount of newlines skipped before the stripping process starts.  This setting defaults to 2.
