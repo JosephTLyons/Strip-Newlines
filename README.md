@@ -13,7 +13,7 @@ An [Atom](https://atom.io) text editor package that strips out unnecessary newli
 
 ## Future Features:
 
-* Ability to strip out newlines from files with mixed newlines and keep the newlines mixed
+* Ability to strip out newlines from files with mixed newlines and keep the original mixture of newlines intact.
 
 ## Bug(s)
 
