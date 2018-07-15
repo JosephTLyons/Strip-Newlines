@@ -15,7 +15,7 @@ An [Atom](https://atom.io) text editor package that strips out unnecessary newli
 
 * Ability to strip out newlines from files with mixed newlines and keep the original mixture of newlines intact.
 
-## Bug(s)
+## Bug(s):
 
 * Certain edge cases will cause the stripping to not work correctly
 * Minimum value (0) may still allow for values below 0 - unsure.
