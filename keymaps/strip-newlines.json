@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "strip-newlines:strip-Newlines"
+    "ctrl-alt-o": "strip-newlines:toggle"
   }
 }
