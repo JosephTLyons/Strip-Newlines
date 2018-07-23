@@ -24,5 +24,6 @@ An [Atom](https://atom.io) text editor package that strips out unnecessary newli
 
 ## TODO:
 
+* Add checkpoint to return to for undos
 * Refactor stripNewlines() into smaller functions
 * Use line-ending-selector package to do the conversions instead of regex
