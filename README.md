@@ -1,4 +1,7 @@
 # Strip Newlines
+
+[![apm install Strip-Newlines](https://apm-badges.herokuapp.com/apm/strip-newlines.svg)](https://atom.io/packages/strip-newlines)
+
 An [Atom](https://atom.io) text editor package that strips out unnecessary newlines (LF and CRLF) from files.
 
 ## Before
