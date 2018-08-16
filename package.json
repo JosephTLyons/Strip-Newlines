@@ -1,7 +1,7 @@
 {
   "name": "strip-newlines",
   "main": "./lib/strip-newlines",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Strips out unnecessary newlines (LF and CRLF) from files.",
   "keywords": [
     "strip",
