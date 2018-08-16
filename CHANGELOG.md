@@ -1,3 +1,8 @@
+## v1.1.1
+
+- Added a .gif of `strip-lines` in action.
+- Cleaned up `README.md`
+
 ## v1.1.0
 
 - Replaced all custom code with regex code, which makes it more compact and easier to read.  It probably also makes it much more efficient and safe.
