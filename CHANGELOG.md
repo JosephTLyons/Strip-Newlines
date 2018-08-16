@@ -1,3 +1,7 @@
+## v1.1.0
+
+- Replaced all custom code with regex code, which makes it more compact and easier to read.  It probably also makes it much more efficient and safe.
+
 ## v1.0.0
 
 - Now supports CRLF style of newlines.  If you are using LF or CRLF newlines, strip-newlines will preserve this.  However, it should be noted that if you are using mixed newlines, all of your newlines will be converted to CRLF, due to the way the algorithm is designed.
