@@ -20,7 +20,7 @@
   "configSchema": {
     "consecutiveNewlinesAllowed": {
       "title": "Consecutive Newlines Allowed",
-      "description": "This setting dictates how many consecutive newlines are allowed before stripping occurs (minimum of 0)",
+      "description": "This setting dictates how many consecutive newlines are allowed before stripping occurs (minimum of 0).  Any consecutive amount of newlines less than this number will also be skipped during the stripping process",
       "type": "integer",
       "default": 2,
       "minimum": 0
