@@ -4,11 +4,9 @@
 
 An [Atom](https://atom.io) text editor package that strips out unnecessary newlines (LF and CRLF) from files.
 
-## Before
-![alt tag](https://raw.githubusercontent.com/JosephTLyons/Strip-Newlines/master/Screenshots/Before.png)
+## `strip-newlines` in Action:
 
-## After
-![alt tag](https://raw.githubusercontent.com/JosephTLyons/Strip-Newlines/master/Screenshots/After.png)
+![Action](./misc/strip-newlines.gif)
 
 ## Description:
 
