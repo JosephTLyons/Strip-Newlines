@@ -1,4 +1,4 @@
-# Strip Newlines
+# Strip-Newlines
 
 [![Strip-Newlines download badge](https://badgen.net/apm/dl/strip-newlines)](https://atom.io/packages/text-align)
 
