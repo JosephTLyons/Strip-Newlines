@@ -10,11 +10,17 @@ An [Atom](https://atom.io) text editor package that strips out unnecessary newli
 
 ## Description:
 
-* This package simply strips out newlines from source files.  In the settings, the user can select how many newlines are ignored before the stripping begins.  The default value of ignored newlines is 2.  The reasoning behind using the value 2 is we often use one blank line to mark the end of one code block and the beginning of another; this blank line consists of two newlines.  Using the value of 2 means that these blank lines will not be removed.
+* This package simply strips out newlines from source files.  In the settings,
+  the user can select how many newlines are ignored before the stripping begins.  
+  The default value of ignored newlines is 2.  The reasoning behind using the
+  value 2 is we often use one blank line to mark the end of one code block and
+  the beginning of another; this blank line consists of two newlines.  Using the
+  value of 2 means that these blank lines will not be removed.
 
 ## Future Features:
 
-* Ability to strip out newlines from files with mixed newlines and keep the original mixture of newlines intact.
+* Ability to strip out newlines from files with mixed newlines and keep the
+  original mixture of newlines intact.
 
 ## Bug(s):
 
