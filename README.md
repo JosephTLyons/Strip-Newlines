@@ -1,6 +1,10 @@
 # Strip-Newlines
 
+[![Strip-Newlines version badge](https://badgen.net/apm/version/Strip-Newlines)](https://atom.io/packages/text-align)
+
 [![Strip-Newlines download badge](https://badgen.net/apm/dl/Strip-Newlines)](https://atom.io/packages/text-align)
+
+[![Strip-Newlines stars badge](https://badgen.net/apm/stars/Strip-Newlines)](https://atom.io/packages/text-align)
 
 An [Atom](https://atom.io) text editor package that strips out unnecessary newlines (LF and CRLF) from files.
 
